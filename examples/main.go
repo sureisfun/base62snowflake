@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/sureisfun/base62snowflake/snowflake"
+	"github.com/sureisfun/base62snowflake"
 )
 
 func main() {

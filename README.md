@@ -9,7 +9,7 @@ a base 62 alphabet, so I scrabbled this one together.
 ```
 import (
   "fmt"
-  base62snowflake "github.com/sureisfun/base62snowflake/snowflake"
+  "github.com/sureisfun/base62snowflake"
 )
 
 func main() {
